@@ -1,19 +1,19 @@
 # etch-a-sketch
 An etch a sketch program using JS
 
-Create a webpage with a 16x16 grid of square divs.
+Create a webpage with a 16x16 grid of square divs.-DONE
 
-Create the divs using JavaScript. Don’t try making them by hand with copy and pasting in your html file!
+Create the divs using JavaScript. Don’t try making them by hand with copy and pasting in your html file!-DONE
 
-It’s best to put your grid squares inside another “container” div (which can go directly in your html).
+It’s best to put your grid squares inside another “container” div (which can go directly in your html).-DONE
 
 There are several different ways to make the divs appear as a grid (versus just one on each line). Feel free to use any or play with each of them:
 float/clear
 inline-block
 flexbox
-CSS Grid
+CSS Grid-DONE
 
-Be careful with borders and margins, as they can adjust the size of the squares!
+Be careful with borders and margins, as they can adjust the size of the squares!-DONE
 
 “OMG, why isn’t my grid being created???”
 
